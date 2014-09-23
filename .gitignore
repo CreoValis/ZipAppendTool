@@ -1,0 +1,7 @@
+wuxtheme.pdb
+Bin/*
+Obj/*
+*.sdf
+*.vcxproj.user
+*.opensdf
+*.suo
